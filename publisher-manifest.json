@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "fb24c9dd11288081bcd38f96",
+  "owner": "tqmdrxh",
+  "repo": "page-1e6b545e0573e79b839ac58f",
+  "title": "万里云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "1e6b545e0573e79b839ac58f",
+      "a": "万里云",
+      "b": "机场官网线路发布页",
+      "entity": "万里云",
+      "brand": "万里云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "4044b7782c779a56008f975e861b802b9e239610b5beca908a59168f3018f222",
+      "content": {
+        "primary_entity": "万里云",
+        "keyword1": "万里云",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "万里云提供多平台客户端订阅，按设备系统选择对应版本，导入订阅链接即可使用。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "选择适合的万里云套餐，下载客户端并导入订阅，即刻开始稳定加速。",
+          "AI_CLOSING_TITLE": "即刻开启万里云加速",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档选择，月付年付灵活，支持多设备在线，适配主流客户端订阅导入。",
+          "AI_FAQ_ANSWER_1": "根据同时在线设备数量选择：3台以内选基础版，5台左右选旗舰版，20台或团队使用选团队版。",
+          "AI_FAQ_ANSWER_2": "万里云支持订阅导入方式，具体格式与步骤可参考对应客户端的接入文档进行配置。",
+          "AI_FAQ_ANSWER_3": "基础版每月100GB流量，适合轻度浏览；旗舰版每月300GB，适合日常视频与游戏；团队版每月1000GB，满足多设备大流量需求。",
+          "AI_FAQ_ANSWER_4": "三档套餐均提供月付与年付方案，年付价格更优惠，可按需选择计费周期。",
+          "AI_FAQ_ANSWER_5": "旗舰版包含IPLC专线游戏加速优化，适合对延迟敏感的游戏与实时应用，基础版使用普通线路节点池。",
+          "AI_FAQ_INTRO": "套餐选择、设备限制与订阅导入。",
+          "AI_FAQ_QUESTION_1": "如何根据设备数量选择万里云套餐？",
+          "AI_FAQ_QUESTION_2": "万里云支持哪些订阅导入方式？",
+          "AI_FAQ_QUESTION_3": "不同套餐的每月流量有什么区别？",
+          "AI_FAQ_QUESTION_4": "万里云套餐可以按月或按年付费吗？",
+          "AI_FAQ_QUESTION_5": "游戏加速应该选择哪个套餐？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "从套餐选择到订阅配置，万里云关注设备适配与流量需求。",
+          "AI_FEATURES_TITLE": "特点",
+          "AI_FEATURE_TEXT_1": "按同时在线设备数选择基础版、旗舰版或团队版，覆盖3至20台设备。",
+          "AI_FEATURE_TEXT_2": "月付年付灵活，年付更划算，可依使用周期调整。",
+          "AI_FEATURE_TEXT_3": "订阅链接兼容主流客户端，按设备系统对应配置。",
+          "AI_FEATURE_TITLE_1": "灵活套餐匹配",
+          "AI_FEATURE_TITLE_2": "计费周期可选",
+          "AI_FEATURE_TITLE_3": "订阅配置简便",
+          "AI_GUIDE_INTRO": "三步完成万里云使用准备：选服务、看要求、配订阅。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "万里云提供基础版、旗舰版与团队版三档套餐，月付年付灵活，支持多设备同时在线，适配主流客户端订阅导入，满足日常加速与游戏优化需求。",
+          "AI_HERO_SUBTITLE": "多设备加速，套餐灵活选",
+          "AI_HIGHLIGHT_1": "三档套餐可选",
+          "AI_HIGHLIGHT_2": "月付年付灵活",
+          "AI_HIGHLIGHT_3": "多设备同时在线",
+          "AI_PLANS_INTRO": "基础版每月100GB流量支持3台设备，旗舰版每月300GB支持5台设备并含IPLC专线，团队版每月1000GB支持20台设备。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量与流量需求，选择基础版、旗舰版或团队版。",
+          "AI_STEP_TEXT_2": "查看所选套餐的适配要求，确认设备系统与在线数量。",
+          "AI_STEP_TEXT_3": "打开对应客户端，导入订阅链接完成配置。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置客户端订阅",
+          "AI_VISUAL_TITLE": "万里云加速"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "chenduodiwei14.cn",
+    "host": "chenduodiwei14.cn"
+  },
+  "file_hashes": {
+    "index.html": "b6a5e977e28dca09b37c9827dd0603fc7f8d624eaead02461d0b645b1dd88fd5",
+    "sitemap.xml": "cc978c9bce05e86cc6e3219dfef37996c567124741ebcc40b8c0e69174c666bd",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "f90945f616d382ec56fb881382c02aa6f13851575e34c3237a03bb1a5f042bd6",
+    "robots.txt": "b3eea0fd60facc0738589f0c6d4a6245f2436a21ebd33526fe20c5eb66bd1e41",
+    "3ccae666f2d691a69427dbb060acaa26.txt": "c2c4dc198f22e0b56c7a3743969bbb7c7c29dda7caa64ee1ecfb789bc768815e"
+  },
+  "revision": "e71902d27daa5acb58a973e7ef2065673fc2867d356a75d58fbe109cc955551a"
+}
